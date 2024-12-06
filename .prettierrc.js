@@ -1,3 +1,3 @@
 module.exports = {
-  ...require("@yalesites-org/eslint-config-and-other-formatting"),
+  ...require("@namallium/eslint-config-and-other-formatting"),
 };
